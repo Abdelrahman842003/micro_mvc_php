@@ -1,6 +1,6 @@
 {
   "description": "mvc framework",
-  "name": "php_mvc",
+  "name": "php/mvc",
   "require": {
     "another-vendor/package": "1.*",
     "autoload": {
