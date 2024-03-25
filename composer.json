@@ -1,0 +1,20 @@
+{
+  "description": "mvc framework",
+  "name": "php_mvc",
+  "require": {
+    "another-vendor/package": "1.*",
+    "autoload": {
+      "psr-4": {
+        "MVC\\": "app"
+      }
+    },
+    "php": "8.2",
+    "require": {
+      "dcblogdev/pdo-wrapper": "^2.0",
+      "wixel/gump": "^1.11"
+    },
+    "require-dev": {
+      "roave/security-advisories": "dev-latest"
+    }
+  }
+}
