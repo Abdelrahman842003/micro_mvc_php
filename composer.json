@@ -1,6 +1,6 @@
 {
   "description": "mvc framework",
-  "name": "php/mvc",
+  "name": "abdo/micromvc",
   "require": {
     "another-vendor/package": "1.*",
     "autoload": {
