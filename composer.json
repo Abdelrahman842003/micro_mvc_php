@@ -1,6 +1,6 @@
 {
   "description": "mvc framework",
-  "name": "abdo/micromvc",
+  "name": "abdoeid/micromvc",
   "require": {
     "another-vendor/package": "1.*",
     "autoload": {
